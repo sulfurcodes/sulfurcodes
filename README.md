@@ -6,10 +6,6 @@ I primarily work with Flutter, Node.js, PostgreSQL, MongoDB, Redis, and Docker.
 Lately I've been getting more into cross platform development, backend development, real-time systems, and building things that are a little more complicated than they need to be. 😼
 
 
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sulfurcodes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isam-ali1)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Pcj8vq6Rru) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isamali.work@gmail.com)
-
-
 ## Tech Stack:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -34,5 +30,9 @@ A real-time collaborative document editor built with Flutter, Node.js, MongoDB, 
 
 ### [URL Shortener - Repository](https://github.com/sulfurcodes/url-shortener-redis-pg)
 A URL shortening backend built with Node.js, PostgreSQL, and Redis. Redis is used as a caching layer in front of PostgreSQL to reduce database lookups and improve response times for frequently accessed links.
+
+
+## Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sulfurcodes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isam-ali1)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Pcj8vq6Rru) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isamali.work@gmail.com)
 
 
