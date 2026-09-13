@@ -22,7 +22,17 @@ Lately I've been getting more into cross platform development, backend developme
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+
+
+## Featured Projects
+
+### [sulfur.IO](https://github.com/sulfurcodes/Sulfur.IO-RealTime-Multiplayer-Drawing-Game)
+A cross-platform real-time multiplayer drawing and guessing game built with Flutter, Node.js, MongoDB, and Socket.IO.
+
+### [SulfurDocs](https://github.com/sulfurcodes/SulfurDocs-RealTime-Document-Editor)
+A real-time collaborative document editor built around synchronized multi-user editing.
+
+### [URL Shortener](https://github.com/sulfurcodes/url-shortener-redis-pg)
+A URL shortening backend built to demonstrate Redis caching with PostgreSQL for faster repeat lookups.
+
 
