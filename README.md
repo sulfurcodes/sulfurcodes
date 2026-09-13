@@ -1,7 +1,7 @@
-# sulfurcodes
-
 ## About Me:
-A lot of what I build starts as a random thought that I decide to pursue.
+A lot of what I build starts as a random thought that I decide to pursue. :D
+I primarily work with Flutter, Node.js, PostgreSQL, MongoDB, Redis, and Docker. 
+Lately I've been getting more into cross platform development, backend development, real-time systems, and building things that are a little more complicated than they need to be. 😼
 
 
 ## Socials:
@@ -24,5 +24,3 @@ A lot of what I build starts as a random thought that I decide to pursue.
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 
----
-[![](https://komarev.com/ghpvc/?username=sulfurcodes&icon=6&color=7)](https://visitcount.itsvg.in)
