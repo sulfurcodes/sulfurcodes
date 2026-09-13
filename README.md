@@ -1,6 +1,8 @@
 ## About Me:
 A lot of what I build starts as a random thought that I decide to pursue. :D
+
 I primarily work with Flutter, Node.js, PostgreSQL, MongoDB, Redis, and Docker. 
+
 Lately I've been getting more into cross platform development, backend development, real-time systems, and building things that are a little more complicated than they need to be. 😼
 
 
