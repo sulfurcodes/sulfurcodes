@@ -21,14 +21,13 @@ Lately I've been getting more into cross platform development, backend developme
 
 
 ## Featured Projects
-
-### [Sulfur.IO - Repository](https://github.com/sulfurcodes/Sulfur.IO-RealTime-Multiplayer-Drawing-Game)
+### [Sulfur.IO](https://github.com/sulfurcodes/Sulfur.IO-RealTime-Multiplayer-Drawing-Game)
 A cross-platform real-time multiplayer drawing and guessing game built with Flutter, Node.js, MongoDB, and Socket.IO. Players join rooms, draw prompts, and compete in real time with synchronized game state and interactions.
 
-### [SulfurDocs - Repository](https://github.com/sulfurcodes/SulfurDocs-RealTime-Document-Editor)
+### [SulfurDocs](https://github.com/sulfurcodes/SulfurDocs-RealTime-Document-Editor)
 A real-time collaborative document editor built with Flutter, Node.js, MongoDB, and Socket.IO. Multiple users can edit documents together while changes are synchronized in real time across connected clients.
 
-### [URL Shortener - Repository](https://github.com/sulfurcodes/url-shortener-redis-pg)
+### [URL Shortener](https://github.com/sulfurcodes/url-shortener-redis-pg)
 A URL shortening backend built with Node.js, PostgreSQL, and Redis. Redis is used as a caching layer in front of PostgreSQL to reduce database lookups and improve response times for frequently accessed links.
 
 
