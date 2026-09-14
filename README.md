@@ -1,4 +1,4 @@
-## About Me:
+##- About Me -
 A lot of what I build starts as a random thought that I decide to pursue. :D
 
 I primarily work with Flutter, Node.js, PostgreSQL, MongoDB, Redis, and Docker. 
@@ -6,7 +6,7 @@ I primarily work with Flutter, Node.js, PostgreSQL, MongoDB, Redis, and Docker.
 Lately I've been getting more into cross platform development, backend development, real-time systems, and building things that are a little more complicated than they need to be. 😼
 
 
-## Tech Stack:
+##- Tech Stack -
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
@@ -20,7 +20,7 @@ Lately I've been getting more into cross platform development, backend developme
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 
-## Featured Projects
+##- Featured Projects -
 
 ### [Sulfur.IO - Repository](https://github.com/sulfurcodes/Sulfur.IO-RealTime-Multiplayer-Drawing-Game)
 A cross-platform real-time multiplayer drawing and guessing game built with Flutter, Node.js, MongoDB, and Socket.IO. Players join rooms, draw prompts, and compete in real time with synchronized game state and interactions.
@@ -32,7 +32,7 @@ A real-time collaborative document editor built with Flutter, Node.js, MongoDB, 
 A URL shortening backend built with Node.js, PostgreSQL, and Redis. Redis is used as a caching layer in front of PostgreSQL to reduce database lookups and improve response times for frequently accessed links.
 
 
-## Socials:
+##- Socials -
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sulfurcodes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isam-ali1)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Pcj8vq6Rru) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isamali.work@gmail.com)
 
 
