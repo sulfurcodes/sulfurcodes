@@ -30,6 +30,8 @@ A real-time collaborative document editor built with Flutter, Node.js, MongoDB, 
 ### [URL Shortener](https://github.com/sulfurcodes/url-shortener-redis-pg)
 A URL shortening backend built with Node.js, PostgreSQL, and Redis. Redis is used as a caching layer in front of PostgreSQL to reduce database lookups and improve response times for frequently accessed links.
 
+### [Sulfur Framework](https://github.com/sulfurcodes/Sulfur-Backend-Framework)
+A lightweight Python backend framework built from scratch on WSGI, featuring a custom request and response layer, a dynamic router, global and route-level middleware, and built-in 404 handling
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sulfurcodes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sulfurcodes)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Pcj8vq6Rru) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isamali.work@gmail.com)
